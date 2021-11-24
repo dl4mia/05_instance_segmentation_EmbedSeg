@@ -103,7 +103,7 @@ The notebook (***01-data.ipynb***) allows you to download the data from an exter
 
 ```
 cd /group/carecourse/embedseg_data
-cp -rv Mouse-Organoid-Cells-CBG ~/DLM4MIA/EmbedSeg/data/. 
+cp -rv Mouse-Organoid-Cells-CBG ~/DL4MIA/EmbedSeg/data/. 
 ```
 
 ### Infer with a fully trained model [<15 min]
