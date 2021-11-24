@@ -96,15 +96,14 @@ DIFFICULTY LEVEL = Easy
 
 The notebook (***01-data.ipynb***) allows you to download the data from an external link. In this case, we shall only run part of the notebook since we do not, for the purpose of this exercise, wish to train a network.
 
-1. Change kernel to `conda env:EmbedSegEnv`
-2. Go to `examples/3d/Mouse-Organoid-Cells-CBG/01-data.ipynb`
-3. Run the first five cells (the fourth and fifth cell reserve some of the data for testing) 
-4. If download takes too long, one could copy the data from `/group/carecourse/embedseg_data` as follows:
-
+1. Copy the 3d demo data from `/group/carecourse/embedseg_data` by running in a terminal window as follows:
 ```
 cd /group/carecourse/embedseg_data
 cp -rv Mouse-Organoid-Cells-CBG ~/DL4MIA/EmbedSeg/data/. 
 ```
+2. Change kernel to `conda env:EmbedSegEnv`
+3. Go to `examples/3d/Mouse-Organoid-Cells-CBG/01-data.ipynb`
+4. Run the first five cells (the fourth and fifth cell reserve some of the data for testing) 
 
 ### Infer with a fully trained model [<15 min]
 
