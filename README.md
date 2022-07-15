@@ -8,4 +8,4 @@ In this tutorial, we shall learn to use *EmbedSeg* notebooks to train a model fo
 See **[this](https://carbonated-tub-0d7.notion.site/Instance-Segmentation-with-EmbedSeg-DL4MIA-22-ecc78159a46e4f93b0e7f1d41d91a977)** document for installing `EmbedSeg` and the included exercises. 
 
 
-[Return to the Course main page](https://tinyurl.com/7z8jxx2w)
+[Return to the Course's main page](https://tinyurl.com/7z8jxx2w)
